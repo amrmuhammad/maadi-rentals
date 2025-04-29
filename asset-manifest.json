@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maadi-rentals/static/css/main.e6c13ad2.css",
+    "main.js": "/maadi-rentals/static/js/main.51130ad1.js",
+    "static/js/453.4a665d97.chunk.js": "/maadi-rentals/static/js/453.4a665d97.chunk.js",
+    "index.html": "/maadi-rentals/index.html",
+    "main.e6c13ad2.css.map": "/maadi-rentals/static/css/main.e6c13ad2.css.map",
+    "main.51130ad1.js.map": "/maadi-rentals/static/js/main.51130ad1.js.map",
+    "453.4a665d97.chunk.js.map": "/maadi-rentals/static/js/453.4a665d97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.51130ad1.js"
+  ]
+}
