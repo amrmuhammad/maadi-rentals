@@ -195,7 +195,7 @@ function App() {
           📞
         </span>
         <span>
-          Call us on{' '}
+          Send us a message on WhatsApp number{' '}
           <a
             href="tel:01007701719"
             style={{ color: '#ff6f00', textDecoration: 'underline', fontWeight: 700 }}
